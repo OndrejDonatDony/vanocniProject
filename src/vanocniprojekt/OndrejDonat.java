@@ -2,16 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package vanocniprojekt;
+package christmas;
 
 /**
  *
- * @author ondre
+ * @author Donat
  */
 import java.util.Scanner;
 import java.util.Scanner;
 
-public class VanocniProjekt {
+public class OndrejDonat {
     
 public static final String ANSI_RESET = "\u001B[0m";
 public static final String ANSI_RED = "\u001B[31m";
